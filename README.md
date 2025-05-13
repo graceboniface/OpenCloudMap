@@ -1,5 +1,5 @@
 # 🚀 Open Cloud Map
-## Freeing Aviation Data for a Brighter Futuregs
+## Freeing Aviation Data for a Brighter Futures
 
 Welcome to the source code for my **personal website** — a site to showcase my lifelong passion for aviation, space, and aerospace systems. This site is more than a digital resume — it's a mission briefing.
 
